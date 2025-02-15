@@ -5,7 +5,7 @@ using System.IO;
 
 class FAQPrediction
 {
-    // Use Path.Combine for flexible file path handling
+  
     private static readonly string dataPath = Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\faq_data.tsv");
 
     static void Main(string[] args)
