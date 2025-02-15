@@ -157,8 +157,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or support, feel free to reach out:
-- **Author**: [Vinay](https://github.com/iamrealvinnu)
-- **Email**: [your-email@example.com](mailto:gupta.vinayC@gmail.com)
+- **Author**: [iamrealvinnu](https://github.com/iamrealvinnu)
+- **Email**: [Vinay Gupta](mailto:gupta.vinayC@gmail.com)
 
 Enjoy building with **FAQ Classifier HF**! 🚀
 
