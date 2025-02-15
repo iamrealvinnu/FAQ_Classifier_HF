@@ -24,7 +24,6 @@ The **FAQ Classifier HF** is designed to classify frequently asked questions usi
 
 ## Project Structure
 ```
-```
 FAQ_Classifier_HF/
 │── API/
 │   ├── paraphraser_api.py    # Flask API for paraphrasing questions
